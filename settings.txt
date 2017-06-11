@@ -1,0 +1,11 @@
+twitch account name: ChubbinBot
+twitch password: oauth:e650u8s1uc9bgpuvx69vx380752boz
+twitch channel to join: chibbunfanboy
+points per X: 100
+chance of winning(1 out of): 100
+number of seconds for points to increment (X): 300
+points for regular: 5000
+emote1: Kappa
+emote2: KappaPride
+emote3: Keepo
+emote4: TriHard
